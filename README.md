@@ -1,6 +1,5 @@
 # InfraMind - Enterprise AI Assistant
 
-![InfraMind Dashboard]
 Demo(api,database diabled) : https://880d8df3-7311-4304-9ddf-bb0e6870b87c-00-2wadi44b4sybw.picard.replit.dev/
 
 InfraMind is a full-stack RAG (Retrieval-Augmented Generation) system designed to help engineering teams retrieve internal documentation and organizational knowledge. The application combines a modern React frontend with an Express.js backend, utilizing PostgreSQL for data storage and OpenAI's GPT-4o for AI-powered responses.
@@ -22,13 +21,17 @@ InfraMind is a full-stack RAG (Retrieval-Augmented Generation) system designed t
 <img width="1896" height="848" alt="image" src="https://github.com/user-attachments/assets/c3632ac9-19ff-4ebd-88c5-7d7c05b60cfa" />
 
 ### Data Sources Management
-![Data Sources](https://via.placeholder.com/600x400/10b981/ffffff?text=Data+Sources+Management)
+![Data Sources]
+<img width="1903" height="840" alt="image" src="https://github.com/user-attachments/assets/79f76111-ed2d-4c5a-9e2c-36f6ab724659" />
 
 ### Analytics Dashboard
-![Analytics](https://via.placeholder.com/600x400/f59e0b/ffffff?text=Analytics+Dashboard)
+![Analytics]
+<img width="1900" height="847" alt="image" src="https://github.com/user-attachments/assets/1f74ed2f-c801-4c9c-9dd8-bd9201bdab61" />
 
 ### Document Upload
-![Document Upload](https://via.placeholder.com/600x400/8b5cf6/ffffff?text=Document+Upload)
+![Document Upload]
+<img width="1887" height="837" alt="image" src="https://github.com/user-attachments/assets/7278d10e-ea66-4f34-8703-3f24b65b1e23" />
+
 
 ## 🛠️ Tech Stack
 
