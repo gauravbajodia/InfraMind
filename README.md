@@ -1,6 +1,7 @@
 # InfraMind - Enterprise AI Assistant
 
 ![InfraMind Dashboard]([https://via.placeholder.com/800x400/1f2937/ffffff?text=InfraMind+Dashboard]](https://880d8df3-7311-4304-9ddf-bb0e6870b87c-00-2wadi44b4sybw.picard.replit.dev/))
+https://880d8df3-7311-4304-9ddf-bb0e6870b87c-00-2wadi44b4sybw.picard.replit.dev/
 
 InfraMind is a full-stack RAG (Retrieval-Augmented Generation) system designed to help engineering teams retrieve internal documentation and organizational knowledge. The application combines a modern React frontend with an Express.js backend, utilizing PostgreSQL for data storage and OpenAI's GPT-4o for AI-powered responses.
 
