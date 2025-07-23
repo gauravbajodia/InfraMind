@@ -1,7 +1,7 @@
 # InfraMind - Enterprise AI Assistant
 
-![InfraMind Dashboard]([https://via.placeholder.com/800x400/1f2937/ffffff?text=InfraMind+Dashboard]](https://880d8df3-7311-4304-9ddf-bb0e6870b87c-00-2wadi44b4sybw.picard.replit.dev/))
-https://880d8df3-7311-4304-9ddf-bb0e6870b87c-00-2wadi44b4sybw.picard.replit.dev/
+![InfraMind Dashboard]
+Demo(api,database diabled) : https://880d8df3-7311-4304-9ddf-bb0e6870b87c-00-2wadi44b4sybw.picard.replit.dev/
 
 InfraMind is a full-stack RAG (Retrieval-Augmented Generation) system designed to help engineering teams retrieve internal documentation and organizational knowledge. The application combines a modern React frontend with an Express.js backend, utilizing PostgreSQL for data storage and OpenAI's GPT-4o for AI-powered responses.
 
@@ -18,8 +18,8 @@ InfraMind is a full-stack RAG (Retrieval-Augmented Generation) system designed t
 ## 📊 Screenshots
 
 ### Chat Interface
-![Chat Interface](<img width="1896" height="848" alt="image" src="https://github.com/user-attachments/assets/659d36a2-d895-45db-afee-e117e2a7e5ff" />
-)
+![Chat Interface]
+<img width="1896" height="848" alt="image" src="https://github.com/user-attachments/assets/c3632ac9-19ff-4ebd-88c5-7d7c05b60cfa" />
 
 ### Data Sources Management
 ![Data Sources](https://via.placeholder.com/600x400/10b981/ffffff?text=Data+Sources+Management)
